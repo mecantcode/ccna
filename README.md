@@ -1,5 +1,5 @@
 # ccna
-A CCNA repo to learn and  grow. Basics to best.
+A CCNA repo to learn and  grow. Basics to complex.
 
 Welcome to my humble beginnings in the road to CCNA.
 
