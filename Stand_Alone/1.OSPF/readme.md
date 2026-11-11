@@ -8,7 +8,7 @@ Configured a three-router network using OSPF Area 0 to enable dynamic routing an
 **Tools:** Cisco Packet Tracer
 
 ## Topology
-/
+/lab1_ospf.png
 
 ## IP Addressing
 
