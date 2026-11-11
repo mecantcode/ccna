@@ -35,5 +35,5 @@ Configured a three-router network using OSPF Area 0 to enable dynamic routing an
 
 ## Troubleshooting
 Initially the ping from PC1 to PC3 across the two LANs failed and R1 routing table showed no router to R3 LAN.
-Investigation was done using the show commands.Later I found out that I had put enabled on wrong interface at R3 using an incorrect IP address.Later I configure it and voila ping succeeded. 
+Investigation was done using the show commands.Later I found out that I had enabled ospf on a wrong interface at R3 using an incorrect IP address.Later I configure it and voila ping succeeded. 
  from
