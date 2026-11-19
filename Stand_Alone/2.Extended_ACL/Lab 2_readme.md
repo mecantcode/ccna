@@ -8,7 +8,7 @@ Configure an extended Access Control List (ACL) on a Cisco router to control tra
 
 ## 2. Topology
 
-/lab2_Extended_ACLs.png
+lab2_Extended_ACLs.png
 
 ## 3. IP Addressing Scheme
 
